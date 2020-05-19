@@ -8,9 +8,6 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"lite": "lite-server"
 	},
-	"devDependencies": {
-		"lite-server": "2.5.4"
-	},
 	"author": "Aditya Raj",
 	"license": "ISC"
 }
